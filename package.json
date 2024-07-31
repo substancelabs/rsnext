@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "npm:rsnext@15.0.0-canary.79",
+    "next": "npm:rsnext@15.0.0-canary.77",
     "react": "19.0.0-rc.0",
     "react-dom": "19.0.0-rc.0"
   },
